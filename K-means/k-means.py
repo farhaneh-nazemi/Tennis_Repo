@@ -75,7 +75,7 @@ class Point:
 
 
 # Load data from file
-input_file_path = 'D:\\Nazemi\\Learn\\Daneshkar\\Python\\Projects\\K-means\\points.txt'
+input_file_path = '/home/nazemi/Projects/K-means/points.txt'
 data = load_data_from_file(input_file_path)  
 
 # Get the number of clusters (K) from the user
