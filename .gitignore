@@ -10,3 +10,8 @@ env.bak/
 venv.bak/
 .venv/
 tmp.log
+Book/
+Temp/
+Mentor_Sessions/
+data/
+temp/
